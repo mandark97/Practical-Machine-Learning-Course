@@ -1,0 +1,6 @@
+model_name,learning_rate,batch_size,epochs,steps_per_epoch,score,accuracy,extra
+lenet,default,512,10,500,0.20424838069081305,0.9384375,{}
+changed_lenet,default,512,10,500,0.11745172668248414,0.9615625,{}
+vgg_2,default,512,10,500,0.07867940024472773,0.9834375,{}
+vgg_n2,default,512,10,500,0.08127159667015076,0.977671875,{}
+lenet_train2,default,512,10,500,0.20821993085741997,0.936177734375,{}

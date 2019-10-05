@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.pyc
+.vscode
+*.h5
+*.pkl
